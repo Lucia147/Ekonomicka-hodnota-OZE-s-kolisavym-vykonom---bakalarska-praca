@@ -40,3 +40,10 @@ This repository contains supplementary materials related to my bachelor's thesis
     - E(PQ)_s EE.png
     - E(PQ)_s DE.png
     - E(PQ)_s LT.png
+
+git checkout --orphan clean_branch
+git add .
+git commit -m "Initial upload"
+git branch -D main
+git branch -m main
+git push -f origin main
