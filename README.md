@@ -16,5 +16,4 @@ This repository contains supplementary materials related to my bachelor's thesis
 - Figures R_cov
       - relative errors in aggregate solar and onshore wind power sector expected revenue estimation as a function of installed capacity share
    
-- Figures E(PQ)_s      
-      - aggregate solar power sector expected revenues
+- Figures E(PQ)_s - aggregate solar power sector expected revenues
