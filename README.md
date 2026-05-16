@@ -28,7 +28,15 @@ This repository contains supplementary materials related to my bachelor's thesis
     - Regresia LT 24h linearna+kvadraticka.png
 
 - Figures of absolute errors in aggregate solar and onshore wind power sector expected revenue estimation as a function of installed capacity share
-    - cov
+    - Cov_s.png
+    - Cov_nv.png
 
+- Figures of relative errors in aggregate solar and onshore wind power sector expected revenue estimation as a function of installed capacity share
+    - R_cov solar.png
+    - R_cov onshorewind.png
+      
 - Figures of aggregate solar power sector expected revenues
-    - E(PQ)_s
+    - E(PQ)_s AT.png
+    - E(PQ)_s EE.png
+    - E(PQ)_s DE.png
+    - E(PQ)_s LT.png
