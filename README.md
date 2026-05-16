@@ -21,7 +21,7 @@ This repository contains supplementary materials related to my bachelor's thesis
     - betafit DE upravena mierka.png
     - betafit LT CF_nv 24h.png
 
-- Figures of hourly linear and quadratic regression for electricity prices
+- Figures of hourly linear and quadratic regressions for electricity prices
     - Regresia AT 24h linearna+kvadraticka.png
     - Regresia EE 24h linearna+kvadraticka.png
     - Regresia DE 24h linearna+kvadraticka.png
